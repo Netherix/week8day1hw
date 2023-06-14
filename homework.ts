@@ -39,3 +39,27 @@ prices[0] = '$100';
 
 function myFunc(a: number, b: number): number {}
 // // A: the function body is empty and thus no number types are being assigned to a & b
+
+// Codewars problem 1: https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/javascript
+
+// Solution:
+
+// function monkeyCount(n) {
+//  var monkeys = [];
+//  for(var i=1; i<n+1; i++){
+//    monkeys.push(i);
+//  }
+//  return monkeys;
+// }
+
+Codewars problem 2: https://www.codewars.com/kata/5772da22b89313a4d50012f7/train/javascript
+
+Solution:
+
+function greet (name, owner) {
+  if (name === owner) {
+    return 'Hello boss';
+  }
+  return 'Hello guest';
+}
+
