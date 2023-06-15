@@ -62,7 +62,4 @@ function myFunc(a: number, b: number): number {}
 //   }
 //   return 'Hello guest';
 // }
-<<<<<<< HEAD:src/index.ts
-=======
 
->>>>>>> b4e9535bd02d4dac69cf3b43155bbff2cfd46049:homework.ts
